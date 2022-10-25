@@ -92,12 +92,13 @@ vertex whereby k-mean=4.</i>
 <i>Figure 5. Plot of PCA1 vs PCA2 Principal Component Relationship Based on the Predicted k=4 Cluster Number.</i>
 
 <br>
+<br>
 
 Therefore, after visually analyzing the cluster analysis results, the impact of using fewer features apparently seems to be minimal, as the cryptocurrency clustering using PCA data and k-means is similar to that of cluster using the original data features (i.e. 24h, 7d, 14d, etc.) with k-means as the majority of crypto's retained their original clustering/grouped relationships.
 
-## Challenge File(s)
+## Accompanying File(s)
 
-\*Note: Refer to the challenge file concerning the outlier analysis using statistical analysis methods and quartile analysis and their results.
+\*Note: Refer to the crypto_market_data.csv file located within the applicable Resources folder for raw .csv data.
 
 ## Running the Project
 
